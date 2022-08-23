@@ -11,12 +11,7 @@ HTML5, CSS3,  Sass, BEM, Figma, JavaScript, React.js, Axios, Node.js, Express.js
 
 ### Currently Learning
 
-JavaScript(diving even deeper!)
-React Native
-TypeScript
-GraphQL
-Docker
-Go
+JavaScript(diving even deeper!), React Native, TypeScript, GraphQL, Docker, Go
 
 ### Connect with me
 
