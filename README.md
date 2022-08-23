@@ -7,42 +7,7 @@ I am open to entry-level positions!
 
 ### My Skills
 
-HTML5 
-CSS3 
-Sass
-BEM 
-Figma
-JavaScript
-React.js
-Axios
-Node.js
-Express.js
-Python
-REST APIs
-Web APIs
-SQL  
-MySQL
-PostgreSQL 
-Databases Schema design
-Querying and Optimization
-Passport.js
-Knex.js
-User Authentication
-OAuth 
-Jest
-Enzyme
-Document Object Model (DOM) 
-HTTP
-SSL
-Web Servers
-Git
-GitHub
-Heroku
-WebPack 
-CLI 
-Linux
-Agile Methodologies
-Jira
+HTML5, CSS3,  Sass, BEM, Figma, JavaScript, React.js, Axios, Node.js, Express.js, Python, REST APIs, Web APIs, SQL,  MySQL, PostgreSQL, Databases Schema design, Querying and Optimization, Passport.js, Knex.js, User Authentication, OAuth, Jest, Enzyme, Document Object Model (DOM),  HTTP, SSL, Web Servers, Git, GitHub, Heroku, WebPack, CLI, Linux, Agile Methodologies, Jira
 
 ### Currently Learning
 
