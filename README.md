@@ -5,15 +5,15 @@ I was an Architect before deciding to follow my passion for technology.
 I just completed a Web Dev boot camp where I learned full stack development and I am currently building on my knowledge to improve my skills. 
 I am open to entry-level positions!
 
-### My Skills
+### My Skills ⚡
 
 HTML5, CSS3,  Sass, BEM, Figma, JavaScript, React.js, Axios, Node.js, Express.js, Python, REST APIs, Web APIs, SQL,  MySQL, PostgreSQL, Databases Schema design, Querying and Optimization, Passport.js, Knex.js, User Authentication, OAuth, Jest, Enzyme, Document Object Model (DOM),  HTTP, SSL, Web Servers, Git, GitHub, Heroku, WebPack, CLI, Linux, Agile Methodologies, Jira
 
-### Currently Learning
+### Currently Learning 🌱
 
 JavaScript(diving even deeper!), TypeScript, React Native, GraphQL, Docker, Go
 
-### Connect with me
+### Connect with me 🔭
 
 https://www.linkedin.com/in/anastasiaandu 
 
